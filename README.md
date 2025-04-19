@@ -1,6 +1,6 @@
-# Project Saylor / Bitcoins of Rage (working title)
+# ![alt text](https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/blob/main/readme_src/btc.png "Bitcoin") Project Saylor / Bitcoins of Rage (working title)
 
-![alt text](https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/blob/main/readme_src/btc.png "Bitcoin")
+
 
 Using OpenBOR Version: OpenBOR v4.0 Build 7556
 
