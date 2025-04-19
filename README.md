@@ -16,7 +16,7 @@ Like many of the folks on this forum, our podcast's love for 2D Beatemups / braw
 
 Having gone down the bitcoin rabbit hole, we were trying to find a way to give back to the bitcoin community, help bring awareness to bitcoin, and at the same time scratch the itch of being able to create our own brawler.
 
-Bitcoin
+## Bitcoin
 
 Bitcoin has existed since January 3rd, 2009 (~16 years now) and still hasn't gone to zero. There's a lot to be said about Bitcoin and there is a plethora of info that can be found on the net (ie: YouTube, Spotify, Twitter/X).
 
@@ -33,7 +33,7 @@ Here are some great books to read:
 
 [Mastering Bitcoin (Technical)](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1098150090/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_6/137-9373380-1340239?pd_rd_w=COge7&content-id=amzn1.sym.46e2be74-be72-4d3f-86e1-1de279690c4e&pf_rd_p=46e2be74-be72-4d3f-86e1-1de279690c4e&pf_rd_r=GZCSTE83X6H1PAN8ZA6V&pd_rd_wg=5DaNL&pd_rd_r=cd477d3d-d81a-4b35-a215-cb1803bf0650&pd_rd_i=1098150090&psc=1)
 
-Saylor
+## Saylor
 
 The protagonist depicted in the trailer above, is based on Michael Saylor - the Executive Chairman of Strategy (formerly known as MicroStrategy). Ticker symbol $MSTR.
 
@@ -68,7 +68,7 @@ https://www.strategy.com/
 
 Find him on X/Twitter: @saylor
 
-Mod:
+## The Mod
 
 The mod currently only contains 1 level, complete with a boss and ending. Navigate Saylor through the "City of Tents" to help the citizens regain their financial freedom, rescue hostages along the way, and "orange pill" Fiat Thugs that have been paid off by the Mayor.
 
