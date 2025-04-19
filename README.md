@@ -15,7 +15,7 @@ https://www.7-zip.org/
 
 
 
-Like many of the folks on this forum, our podcast's love for 2D Beatemups / brawlers started with Double Dragon and Final Fight (among many others).
+Like many of the folks on this [Chronocrash](https://www.chronocrash.com/) forum, our podcast's love for 2D Beatemups / brawlers started with Double Dragon and Final Fight (among many others).
 
 Having gone down the bitcoin rabbit hole, we were trying to find a way to give back to the bitcoin community, help bring awareness to bitcoin, and at the same time scratch the itch of being able to create our own brawler.
 
