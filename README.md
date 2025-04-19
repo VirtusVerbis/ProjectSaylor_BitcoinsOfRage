@@ -1,5 +1,7 @@
 # Project Saylor / Bitcoins of Rage (working title)
 
+![alt text](https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/blob/main/readme_src/btc.png "Bitcoin")
+
 Using OpenBOR Version: OpenBOR v4.0 Build 7556
 
 A meme game to showcase all the things I learned while I took the OpenBOR journey in 2D brawler-style mod creation.
