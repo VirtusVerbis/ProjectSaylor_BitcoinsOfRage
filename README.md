@@ -40,7 +40,7 @@ Here are some great books to read:
 
 ## Saylor
 
-The protagonist depicted in the trailer above, is based on Michael Saylor - the Executive Chairman of Strategy (formerly known as MicroStrategy). Ticker symbol $MSTR.
+The protagonist depicted in the trailer above, is based on Michael Saylor - the Executive Chairman of Strategy (formerly known as MicroStrategy). Ticker symbol [$MSTR](https://www.google.com/search?q=%24MSTR&rlz=1C1CHBF_enCA1033CA1033&oq=%24MSTR&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg9MgYIBhBFGD0yBggHEEUYQdIBCDEyMzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8).
 
 Saylor is famous in the bitcoin/twitter/finance space for a few things:
 
