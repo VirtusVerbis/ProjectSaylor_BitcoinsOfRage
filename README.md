@@ -98,4 +98,5 @@ Throughout the mod you will hear quotes/phrases made popular by Saylor (from var
 
 Here's an example:
 
-
+<a href="https://www.youtube.com/watch?v=B5if2hthPCs" target="_blank"><img src="https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/blob/main/readme_src/callthempoor.png" 
+alt="Click to watch trailer" width="400" height="240" border="10" /></a>
