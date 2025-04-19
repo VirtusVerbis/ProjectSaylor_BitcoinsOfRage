@@ -57,22 +57,28 @@ Saylor is famous in the bitcoin/twitter/finance space for a few things:
 ** issuing Perpetual Strike Preferred Stock ($STRK)
 ** issuing Perpetual Strife Preferred Stock ($STRF)
   
-His company now owns 531,644 BTC (as of April 16th, 2025) - there is only 21 million bitcoins in total.
+*His company now owns 531,644 BTC (as of April 16th, 2025) - there is only 21 million bitcoins in total.
+
+
 In short, Saylor has financially engineered his company to be a "Fiat to Bitcoin conversion machine/funnel" (ala Fiat Blackhole). Here is a diagram depicting the flywheel effect:
 
-1744856576630.png
+![alt text](https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/blob/main/readme_src/mstr_flywheel.png "MSTR Flywheel")
 X/Twitter Credits:
 Concept: @DylanLeClair_ / @PunterJeff / @ryQuant
 Visuals: @BitDeez
 
 Since adopting Bitcoin on their balance sheet, Saylor continues to do well for his stakeholders:
-1744857184283.png
+
+![alt text](https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/blob/main/readme_src/mstr_chart.png "MSTR Chart")
 Credit Twitter/X: @BitcoinForCorps, @thebtcmag
 
+
 If you're interested in knowing more about Strategy ($MSTR), you can also visit their site/dashboard:
-https://www.strategy.com/
+[https://www.strategy.com/](https://www.strategy.com/)
+
 
 Find him on X/Twitter: @saylor
+
 
 ## The Mod
 
