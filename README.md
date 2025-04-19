@@ -60,7 +60,7 @@ Saylor is famous in the bitcoin/twitter/finance space for a few things:
 ** issuing Perpetual Strike Preferred Stock ($STRK)
 ** issuing Perpetual Strife Preferred Stock ($STRF)
   
-*His company now owns 531,644 BTC (as of April 16th, 2025) - there is only 21 million bitcoins in total.
+* His company now owns 531,644 BTC (as of April 16th, 2025) - there is only 21 million bitcoins in total.
 
 
 In short, Saylor has financially engineered his company to be a "Fiat to Bitcoin conversion machine/funnel" (ala Fiat Blackhole). Here is a diagram depicting the flywheel effect:
