@@ -4,6 +4,7 @@ A meme game to showcase all the things I learned while I took the OpenBOR journe
 <a href="https://www.youtube.com/watch?v=psBL4gvat8k&t=3s" target="_blank"><img src="https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/blob/main/readme_src/ProjSaylor_youtube.png" 
 alt="Click to watch trailer" width="320" height="240" border="10" /></a>
 
+
 # Instructions
 
 Download both 7zip files and extract using 7zip.
@@ -11,13 +12,13 @@ Download both 7zip files and extract using 7zip.
 https://www.7-zip.org/
 
 
+
 # Context
-
-
 
 Like many of the folks on the [Chronocrash](https://www.chronocrash.com/) forum, our podcast's love for 2D Beatemups / brawlers started with Double Dragon and Final Fight (among many others).
 
 Having gone down the bitcoin rabbit hole, we were trying to find a way to give back to the bitcoin community, help bring awareness to bitcoin, and at the same time scratch the itch of being able to create our own brawler.
+
 
 ## Bitcoin
 
@@ -41,19 +42,21 @@ Here are some great books to read:
 The protagonist depicted in the trailer above, is based on Michael Saylor - the Executive Chairman of Strategy (formerly known as MicroStrategy). Ticker symbol $MSTR.
 
 Saylor is famous in the bitcoin/twitter/finance space for a few things:
-Originally thought bitcoin was worth nothing, then later changed his mind post COVID and having gone down the bitcoin rabbit hole himself.
-Being one of the most pro-active speakers on bitcoin (MSNBC, Podcasts, etc.)
-Actively encouraged and open-sourced a corporate playbook for bitcoin adoption.
+
+* Originally thought bitcoin was worth nothing, then later changed his mind post COVID and having gone down the bitcoin rabbit hole himself.
+* Being one of the most pro-active speakers on bitcoin (MSNBC, Podcasts, etc.)
+* Actively encouraged and open-sourced a corporate playbook for bitcoin adoption.
 
 ![alt text](https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/blob/main/readme_src/bitwise_companies.png "Credit Bitwise")
 
-Credit Bitwise
-Advocated for a change to the FASB for fair accounting rules relating to bitcoin.
-Actively leverages his company to buy and hold bitcoin on the balance sheet, via:
-issuing Convertible Bonds
-issuing At The Market shares
-issuing Perpetual Strike Preferred Stock ($STRK)
-issuing Perpetual Strife Preferred Stock ($STRF)
+
+* Advocated for a change to the FASB for fair accounting rules relating to bitcoin.
+* Actively leverages his company to buy and hold bitcoin on the balance sheet, via:
+** issuing Convertible Bonds
+** issuing At The Market shares
+** issuing Perpetual Strike Preferred Stock ($STRK)
+** issuing Perpetual Strife Preferred Stock ($STRF)
+  
 His company now owns 531,644 BTC (as of April 16th, 2025) - there is only 21 million bitcoins in total.
 In short, Saylor has financially engineered his company to be a "Fiat to Bitcoin conversion machine/funnel" (ala Fiat Blackhole). Here is a diagram depicting the flywheel effect:
 
