@@ -38,7 +38,9 @@ Saylor is famous in the bitcoin/twitter/finance space for a few things:
 Originally thought bitcoin was worth nothing, then later changed his mind post COVID and having gone down the bitcoin rabbit hole himself.
 Being one of the most pro-active speakers on bitcoin (MSNBC, Podcasts, etc.)
 Actively encouraged and open-sourced a corporate playbook for bitcoin adoption.
-1744857061501.png
+
+![alt text](https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/tree/main/readme_src "Credit Bitwise")
+
 Credit Bitwise
 Advocated for a change to the FASB for fair accounting rules relating to bitcoin.
 Actively leverages his company to buy and hold bitcoin on the balance sheet, via:
