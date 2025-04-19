@@ -16,11 +16,13 @@ https://www.7-zip.org/
 
 
 
+
 # Context
 
 Like many of the folks on the [Chronocrash](https://www.chronocrash.com/) forum, our podcast's love for 2D Beatemups / brawlers started with Double Dragon and Final Fight (among many others).
 
 Having gone down the bitcoin rabbit hole, we were trying to find a way to give back to the bitcoin community, help bring awareness to bitcoin, and at the same time scratch the itch of being able to create our own brawler.
+
 
 
 ## Bitcoin
@@ -43,6 +45,8 @@ Here are some great books to read:
 [Broken Money](https://www.amazon.com/Broken-Money-Financial-System-Failing/dp/B0CNS7NQLD/ref=sr_1_1?crid=1JVWCUF4LJ79H&dib=eyJ2IjoiMSJ9.QQTmoXfHo3orjH9JlysRUr9vH-0EGH4pZV-Ob7W47te8NyJ-BupmguhjTw8g6OekqWY-91NSVr3asXfSDVO2ogVXAiACXyLmj_W2pK7H2263OCLuhgEEL-Cl8x14-Z6X0MU7wX69a9ZltRCJEFloTp-cZMwPLQ2_RJ_HrcZnkEzh1ti9ONoUpCrVR3e-JOMaSI4r3FWPxn-ZC8b-s7skM_Xffr-XABkqCxAWXCKCV6s.jpS_xm68fhZLeqmcgtVTX9ehhO5g4san1grd8jNOH7g&dib_tag=se&keywords=broken+money&qid=1744857885&s=books&sprefix=broken+money%2Cstripbooks%2C149&sr=1-1)
 
 [Mastering Bitcoin (Technical)](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1098150090/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_6/137-9373380-1340239?pd_rd_w=COge7&content-id=amzn1.sym.46e2be74-be72-4d3f-86e1-1de279690c4e&pf_rd_p=46e2be74-be72-4d3f-86e1-1de279690c4e&pf_rd_r=GZCSTE83X6H1PAN8ZA6V&pd_rd_wg=5DaNL&pd_rd_r=cd477d3d-d81a-4b35-a215-cb1803bf0650&pd_rd_i=1098150090&psc=1)
+
+
 
 ## Saylor
 
@@ -72,8 +76,11 @@ In short, Saylor has financially engineered his company to be a "Fiat to Bitcoin
 
 ![alt text](https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/blob/main/readme_src/mstr_flywheel.png "MSTR Flywheel")
 X/Twitter Credits:
+
 Concept: @DylanLeClair_ / @PunterJeff / @ryQuant
+
 Visuals: @BitDeez
+
 
 Since adopting Bitcoin on their balance sheet, Saylor continues to do well for his stakeholders:
 
@@ -81,11 +88,13 @@ Since adopting Bitcoin on their balance sheet, Saylor continues to do well for h
 Credit Twitter/X: @BitcoinForCorps, @thebtcmag
 
 
+
 If you're interested in knowing more about Strategy ($MSTR), you can also visit their site/dashboard:
 [https://www.strategy.com/](https://www.strategy.com/)
 
 
 Find him on X/Twitter: @saylor
+
 
 
 ## The Mod
