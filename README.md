@@ -39,7 +39,7 @@ Originally thought bitcoin was worth nothing, then later changed his mind post C
 Being one of the most pro-active speakers on bitcoin (MSNBC, Podcasts, etc.)
 Actively encouraged and open-sourced a corporate playbook for bitcoin adoption.
 
-!(https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/tree/main/readme_src/bitwise_companies.png "Credit Bitwise")
+![](https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/tree/main/readme_src/bitwise_companies.png "Credit Bitwise")
 
 Credit Bitwise
 Advocated for a change to the FASB for fair accounting rules relating to bitcoin.
