@@ -76,9 +76,7 @@ In short, Saylor has financially engineered his company to be a "Fiat to Bitcoin
 
 ![alt text](https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/blob/main/readme_src/mstr_flywheel.png "MSTR Flywheel")
 X/Twitter Credits:
-
 Concept: @DylanLeClair_ / @PunterJeff / @ryQuant
-
 Visuals: @BitDeez
 
 
