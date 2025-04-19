@@ -30,10 +30,10 @@ Bitcoin has existed since January 3rd, 2009 (~16 years now) and still hasn't gon
 For any folks interested in understanding it better, here are some introductory documentaries/movies (free):
 
 <a href="https://www.youtube.com/watch?v=oksraL7wN6Q" target="_blank"><img src="https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/blob/main/readme_src/godblessbtc.png" 
-alt="Click to watch trailer" width="320" height="240" border="10" /></a>
+alt="Click to watch trailer" width="400" height="240" border="10" /></a>
 
 <a href="https://www.youtube.com/watch?v=YtFOxNbmD38&t=1s" target="_blank"><img src="https://github.com/VirtusVerbis/ProjectSaylor_BitcoinsOfRage/blob/main/readme_src/wtp.png" 
-alt="Click to watch trailer" width="320" height="240" border="10" /></a>
+alt="Click to watch trailer" width="400" height="240" border="10" /></a>
 
 
 Here are some great books to read:
