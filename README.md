@@ -55,10 +55,11 @@ Saylor is famous in the bitcoin/twitter/finance space for a few things:
 
 * Advocated for a change to the FASB for fair accounting rules relating to bitcoin.
 * Actively leverages his company to buy and hold bitcoin on the balance sheet, via:
-** issuing Convertible Bonds
-** issuing At The Market shares
-** issuing Perpetual Strike Preferred Stock ($STRK)
-** issuing Perpetual Strife Preferred Stock ($STRF)
+  
+* - issuing Convertible Bonds
+* - issuing At The Market shares
+* - issuing Perpetual Strike Preferred Stock ($STRK)
+* - issuing Perpetual Strife Preferred Stock ($STRF)
   
 * His company now owns 531,644 BTC (as of April 16th, 2025) - there are only 21 million bitcoins in total.
 
